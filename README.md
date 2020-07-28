@@ -19,7 +19,7 @@
 - [Topic Modelling for Covid-19](https://github.com/MyArist/Topic-Clustering-for-Covid-19)
   *Some files for Covid-19 Topic Clustering*
 
-### 📱 You Can Reach Me
+### 📱 You Can Reach Me at
 
 <p>
   <a href="https://www.linkedin.com/in/myarist" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
