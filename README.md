@@ -10,13 +10,13 @@
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=myarist&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
-### Languages and Tools
+<!--### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)-->
 
 ### Contacs
 
