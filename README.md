@@ -14,9 +14,9 @@
 
 - [**DQLab**](https://github.com/MyArist/DQLab)
   *Storing and sharing data resulting from DQLab*
-- [Dataquest](https://github.com/MyArist/Dataquest)
+- [**Dataquest**](https://github.com/MyArist/Dataquest)
   *A repository of several documents of learning outcomes at Dataquest*
-- [Topic Modelling for Covid-19](https://github.com/MyArist/Topic-Clustering-for-Covid-19)
+- [**Topic Modelling for Covid-19**](https://github.com/MyArist/Topic-Clustering-for-Covid-19)
   *Some files for Covid-19 Topic Clustering*
 
 ### 📱 You Can Reach Me at
