@@ -2,7 +2,9 @@
 
 # Hi there 👋 I'm [Arist](https://www.linkedin.com/in/myarist/) 🧑🏻
 
-I am 20 years old and final-year student majoring in computational statistics with Data Science specialization. I have passionate about Big Data, Artificial Intelligence, Machine Learning, and other related statistical and data topics.
+<p align="justify">
+  I am 20 years old and final-year student majoring in computational statistics with Data Science specialization. I have passionate about Big Data, Artificial Intelligence, Machine Learning, and other related to statistical and data topics.
+</p>
 
 ### Languages and Tools
 
