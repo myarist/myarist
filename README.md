@@ -12,20 +12,12 @@
 
 ### ✨ My Popular Repository
 
-<ul>
-  <li>
-    <a href="https://github.com/MyArist/DQLab"><b>DQLab</b></a><br/>
-    <i>Storing and sharing data resulting from DQLab</i>
-  </li>
-  <li>
-    <a href="https://github.com/MyArist/Dataquest"><b>Dataquest</b></a><br/>
-    <i>A repository of several documents of learning outcomes at Dataquest</i>
-  </li>
-  <li>
-    <a href="https://github.com/MyArist/Topic-Clustering-for-Covid-19"><b>Topic Modelling for Covid-19</b></a><br/>
-    <i>Some files for Covid-19 Topic Clustering</i>
-  </li>
-
+- [**DQLab**](https://github.com/MyArist/DQLab)
+  *Storing and sharing data resulting from DQLab*
+- [Dataquest](https://github.com/MyArist/Dataquest)
+  *A repository of several documents of learning outcomes at Dataquest*
+- [Topic Modelling for Covid-19](https://github.com/MyArist/Topic-Clustering-for-Covid-19)
+  *Some files for Covid-19 Topic Clustering*
 
 ### 📱 You Can Reach Me
 
