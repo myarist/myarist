@@ -1,6 +1,6 @@
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=myarist&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
 
-# Hi there 👋 I'm Arist 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Arist 🧑🏻
 
 <p align="justify">
   I am 20 years old and final-year student majoring in computational statistics with Data Science specialization. I have passionate about Big Data, Artificial Intelligence, Machine Learning, and other related to statistical and data topics.
