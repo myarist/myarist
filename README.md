@@ -14,7 +14,7 @@
 - [**Dataquest**](https://github.com/MyArist/Dataquest) - *Several documents of learning outcomes at Dataquest*
 - [**Data Structures in Java**](https://github.com/MyArist/Data_Structures_in_Java) - *Types of Data Structures using Java*
 - [**Twitter Scraper for Covid-19**](https://github.com/MyArist/Twitter-Scraper-for-Covid-19) - *Some scraper for getting Twitter data*
-- [**Topic Modelling for Covid-19**](https://github.com/MyArist/Topic-Clustering-for-Covid-19) - *Clustering model implementation in Twitter data*
+- [**Topic Modelling for Covid-19**](https://github.com/MyArist/Topic-Clustering-for-Covid-19) - *Clustering modeling in Twitter data*
 
 ### 📱 You Can Reach Me at
 
