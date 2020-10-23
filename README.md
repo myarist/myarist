@@ -1,20 +1,20 @@
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=myarist&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Arist 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"><br> I'm Arist 🧑🏻
 
 <p align="justify">
-  I am 21 years old and final-year student majoring in computational statistics with Data Science specialization. I have passionate about Big Data, Machine Learning, Artificial Intelligence, and other related to data topics.
+  I am final-year student majoring in computational statistics with Data Science specialization. I have passionate about Big Data, Machine Learning, Artificial Intelligence, and other related to data topics.
 </p>
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=myarist&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px"> My Popular Repositories
+## My Popular Repositories <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="25px">
 
 - [**DQLab**](https://github.com/MyArist/DQLab) - *Storing and sharing data resulting from DQLab*
 - [**Dataquest**](https://github.com/MyArist/Dataquest) - *Several documents of learning outcomes at Dataquest*
 - [**Twitter Scraper**](https://github.com/MyArist/Twitter-Scraper-for-Covid-19) - *Some scraper for getting Twitter data*
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> You Can Reach Me at
+## You Can Reach Me at <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25px">
 
 <p>
   <a href="https://www.linkedin.com/in/myarist" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
