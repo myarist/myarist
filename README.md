@@ -3,7 +3,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arist 🧑🏻
 
 <p align="justify">
-  I am 21 years old and final-year student majoring in Computational Statistics with Data Science specialization. I have passionate about Statistics, Big Data, ML, AI, and other related to data topics.
+  I am 21 years old and final-year student. I have passionate about Statistics, Big Data, ML, AI, and other related to data topics.
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
