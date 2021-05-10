@@ -14,7 +14,7 @@
 
 - [**DQLab**](https://github.com/MyArist/DQLab) - *Storing and sharing data resulting from DQLab*
 - [**Dataquest**](https://github.com/MyArist/Dataquest) - *Several documents of learning outcomes at Dataquest*
-- [**Twitter Scraper**](https://github.com/MyArist/Twitter-Scraper-for-Covid-19) - *Some scraper for getting Twitter data*
+- [**Rock Paper Scissors**](https://github.com/myarist/Rock-Paper-Scissors) - *Image Classification Project using Deep Learning*
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
