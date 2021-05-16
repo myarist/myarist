@@ -12,11 +12,11 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
 
-|  **Courses**             |       **Projects**       |
-|:--------------------:|:--------------------:|
-|   [DQLab](https://github.com/MyArist/DQLab)              | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors) |
-| [Dataquest](https://github.com/MyArist/Dataquest)            |      NLP Project     |
-|  [Datacamp](https://github.com/myarist/DataCamp)            |                      |
+|  **Popular** |  [DQLab](https://github.com/MyArist/DQLab), [Dataquest](https://github.com/MyArist/Dataquest), [Rock paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) |
+|:--------:|:--------------------|
+|  **Courses** |  [DQLab](https://github.com/MyArist/DQLab), [Progate](https://github.com/myarist/Progate), [Dataquest](https://github.com/MyArist/Dataquest), [Datacamp](https://github.com/myarist/DataCamp) |
+| **Projects** | [Rock paper Scissors](https://github.com/myarist/Rock-Paper-Scissors), [NLP Project](#) |
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
