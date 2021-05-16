@@ -1,4 +1,4 @@
-<img align='right' src = "https://github-readme-stats.vercel.app/api?username=myarist&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
+<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/overview.svg">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arist 🧑🏻
 
@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=myarist&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
 
