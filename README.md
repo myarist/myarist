@@ -14,8 +14,8 @@
 
 | ⭐ **Popular** |  [DQLab](https://github.com/MyArist/DQLab), [Dataquest](https://github.com/MyArist/Dataquest), [Rock paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) |
 |:--------|:--------------------|
-| 📝 **Courses** |  [DQLab](https://github.com/MyArist/DQLab), [Dicoding](#), [Progate](https://github.com/myarist/Progate), [Codecademy](), [Dataquest](https://github.com/MyArist/Dataquest), [Datacamp](https://github.com/myarist/DataCamp) |
-| ⚙ **Projects**| [Rock paper Scissors](https://github.com/myarist/Rock-Paper-Scissors), [NLP Project](#) |
+| 📝 **Courses** |  [DQLab](https://github.com/MyArist/DQLab), [Dicoding](#), [Progate](https://github.com/myarist/Progate), [Codecademy](), [Datacamp](https://github.com/myarist/DataCamp) |
+| ⚙ **Projects**| [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors), [NLP Project](#) |
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
