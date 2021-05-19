@@ -6,6 +6,8 @@
   I am a student with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
 </p>
 
+## 👁‍🗨 Visitors Count
+
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
 
 <img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
@@ -15,7 +17,6 @@
 | 🎓 [Courses](https://github.com/myarist/Courses) | [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), [Datacamp](https://github.com/myarist/DataCamp)  |
 |:--------|:--------------------|
 | ⚙  [Projects](https://github.com/myarist/Projects) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors),  [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), [Searching Algorithm](https://github.com/myarist/Searching-Program) | 
-| 🔥 Apps | |
 
 ## 📃 Latest Articles
 <!-- BLOG-POST-LIST:START -->
