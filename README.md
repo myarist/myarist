@@ -24,9 +24,9 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="125px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Jenis-jenis Diagram Kotak (Box Plot) dan Interpretasinya](https://www.belajarstatistics.com/blog/2021/05/20/jenis-jenis-diagram-kotak/)
 - [Analisis Data Eksploratif : Pengertian Diagram Kotak Beserta Bagian-bagiannya](https://www.belajarstatistics.com/blog/2021/05/19/pengertian-diagram-kotak-beserta-bagian-bagiannya/)
 - [Analisis Data Eksploratif : Cara Membuat Diagram Titik (Dot Plot)](https://www.belajarstatistics.com/blog/2021/05/18/cara-membuat-diagram-titik/)
-- [Analisis Data Eksploratif : Pengertian Diagram Titik](https://www.belajarstatistics.com/blog/2021/05/17/pengertian-diagram-titik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
