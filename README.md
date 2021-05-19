@@ -6,11 +6,11 @@
   I am a student with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
 </p>
 
+<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+
 ## 👁‍🗨 Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
-
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
 
