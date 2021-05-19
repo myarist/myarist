@@ -15,8 +15,6 @@
 - [Analisis Data Eksploratif : Pengertian Diagram Kotak Beserta Bagian-bagiannya](https://www.belajarstatistics.com/blog/2021/05/19/pengertian-diagram-kotak-beserta-bagian-bagiannya/)
 - [Analisis Data Eksploratif : Cara Membuat Diagram Titik (Dot Plot)](https://www.belajarstatistics.com/blog/2021/05/18/cara-membuat-diagram-titik/)
 - [Analisis Data Eksploratif : Pengertian Diagram Titik](https://www.belajarstatistics.com/blog/2021/05/17/pengertian-diagram-titik/)
-- [Analisis Data Eksploratif : Mendeteksi Outlier Dengan IQR (Inter Quartile Range)](https://www.belajarstatistics.com/blog/2021/05/16/mendeteksi-outlier-dengan-iqr/)
-- [Analisis Data Eksploratif : Nilai Maksimum, Minimum, Hinges, dan Five Number Summary](https://www.belajarstatistics.com/blog/2021/05/15/nilai-maksimum-minimum-hinges-dan-five-number-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories -->
