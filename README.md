@@ -13,7 +13,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
 
- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
+ ## ⭐ My Popular Repositories
 
 | 🎓 [Courses](https://github.com/myarist/Courses) | [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), [Datacamp](https://github.com/myarist/DataCamp)  |
 |:--------|:--------------------|
@@ -26,7 +26,7 @@
 - [Analisis Data Eksploratif : Pengertian Diagram Titik](https://www.belajarstatistics.com/blog/2021/05/17/pengertian-diagram-titik/)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
+## 🔍 You Can Find Me at
 
 <p>
   <a href="https://www.linkedin.com/in/myarist" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
