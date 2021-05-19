@@ -21,7 +21,7 @@
 
 ## 📃 Latest Articles
 
-<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" height="140px">
+<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" height="130px">
 
 <!-- BLOG-POST-LIST:START -->
 - [Analisis Data Eksploratif : Pengertian Diagram Kotak Beserta Bagian-bagiannya](https://www.belajarstatistics.com/blog/2021/05/19/pengertian-diagram-kotak-beserta-bagian-bagiannya/)
