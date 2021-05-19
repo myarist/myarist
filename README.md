@@ -20,6 +20,9 @@
 | ⚙  [Projects](https://github.com/myarist/Projects) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors),  [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), [Searching Algorithm](https://github.com/myarist/Searching-Program) | 
 
 ## 📃 Latest Articles
+
+<img align='right' src="https://lh3.googleusercontent.com/proxy/fFy61m9g_nFIocN5_5Ha6hEL4po37rItI9Z2EwWiugBSyMpcw3PdlYpBUJdFjMpwV3mXX7shiNYRTTYmCQEOowZG9lvCKSNI0o6T0LJxarXi" height="100px">
+
 <!-- BLOG-POST-LIST:START -->
 - [Analisis Data Eksploratif : Pengertian Diagram Kotak Beserta Bagian-bagiannya](https://www.belajarstatistics.com/blog/2021/05/19/pengertian-diagram-kotak-beserta-bagian-bagiannya/)
 - [Analisis Data Eksploratif : Cara Membuat Diagram Titik (Dot Plot)](https://www.belajarstatistics.com/blog/2021/05/18/cara-membuat-diagram-titik/)
