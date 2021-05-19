@@ -14,9 +14,9 @@
 
 | ⭐ **Popular** |  [DQLab](https://github.com/MyArist/DQLab), [Dataquest](https://github.com/MyArist/Dataquest), [Rock paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) |
 |:--------|:--------------------|
-| 📝 [**Courses**](https://github.com/myarist/Courses) |  [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), [Datacamp](https://github.com/myarist/DataCamp) |
+| 🎓 [**Courses**](https://github.com/myarist/Courses) |  [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), [Datacamp](https://github.com/myarist/DataCamp) |
 | ⚙ [**Projects**](https://github.com/myarist/Projects) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors), [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), [Searching Algorithm](https://github.com/myarist/Searching-Program) |
-
+| 📃 [**Articles**](https://github.com/myarist/Projects) | Coming Soon |
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
