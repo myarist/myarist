@@ -10,12 +10,15 @@
 
 <img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories
+## 📃 Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<!-- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="18px"> My Popular Repositories -->
 
-| 🎓 <br> [Courses](https://github.com/myarist/Courses) |  ⚙ <br> [Projects](https://github.com/myarist/Projects) | 📃 <br> [Articles](#) |
+<!-- | 🎓 <br> [Courses](https://github.com/myarist/Courses) |  ⚙ <br> [Projects](https://github.com/myarist/Projects) | 📃 <br> [Articles](#) |
 |:--------:|:--------------------:|:--:
-| [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), <br> [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), <br> [Datacamp](https://github.com/myarist/DataCamp) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors), <br> [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), <br> [Searching Algorithm](https://github.com/myarist/Searching-Program)  | Coming Soon |
+| [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), <br> [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), <br> [Datacamp](https://github.com/myarist/DataCamp) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors), <br> [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), <br> [Searching Algorithm](https://github.com/myarist/Searching-Program)  | Coming Soon | -->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
