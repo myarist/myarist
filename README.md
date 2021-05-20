@@ -15,9 +15,9 @@
 
  ## ⭐ My Popular Repositories
 
-| 🎓 [Courses](https://github.com/myarist/Courses) | [DQLab](https://github.com/MyArist/DQLab), [Dicoding](https://github.com/myarist/Dicoding), [Progate](https://github.com/myarist/Progate), [Codecademy](https://github.com/myarist/Codecademy), [Datacamp](https://github.com/myarist/DataCamp)  |
+| 🎓 [Courses](https://github.com/myarist/Courses) | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Codecademy](https://github.com/myarist/Codecademy) |
 |:--------|:--------------------|
-| ⚙  [Projects](https://github.com/myarist/Projects) | [Image Classification](https://github.com/myarist/Rock-Paper-Scissors),  [Web Scraper](https://github.com/myarist/BPJT-Web-Scraper), [Searching Algorithm](https://github.com/myarist/Searching-Program) | 
+| ⚙  [Projects](https://github.com/myarist/Projects) | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Searching Algorithm](https://github.com/myarist/Searching-Program) | 
 
 ## 📃 Latest Articles
 
