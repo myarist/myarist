@@ -21,7 +21,7 @@
 
 ## 📃 Latest Articles
 
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="125px">
+<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
 - [Analisis Data Eksploratif : Cara Membuat Diagram Kotak (Box Plot) dengan Ms. Excel](https://www.belajarstatistics.com/blog/2021/05/22/cara-membuat-diagram-kotak-box-plot-dengan-ms-excel/)
