@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://feeds.feedburner.com/belajarstatistics?format=xml"
-          max_post_count:	3
+          max_post_count: 5
