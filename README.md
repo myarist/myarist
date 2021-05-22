@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Pengertian, Tujuan Transformasi Data, dan Tangga Transformasi Tukey](https://www.belajarstatistics.com/blog/2021/05/23/pengertian-transformasi-tukey/)
 - [Analisis Data Eksploratif : Cara Membuat Diagram Kotak (Box Plot) dengan Ms. Excel](https://www.belajarstatistics.com/blog/2021/05/22/cara-membuat-diagram-kotak-box-plot-dengan-ms-excel/)
 - [Analisis Data Eksploratif : Contoh Soal Ringkasan Data Numerik](https://www.belajarstatistics.com/blog/2021/05/21/contoh-soal-ringkasan-data-numerik/)
 - [Analisis Data Eksploratif : Jenis-jenis Diagram Kotak (Box Plot) dan Interpretasinya](https://www.belajarstatistics.com/blog/2021/05/20/jenis-jenis-diagram-kotak/)
 - [Analisis Data Eksploratif : Pengertian Diagram Kotak Beserta Bagian-bagiannya](https://www.belajarstatistics.com/blog/2021/05/19/pengertian-diagram-kotak-beserta-bagian-bagiannya/)
-- [Analisis Data Eksploratif : Cara Membuat Diagram Titik (Dot Plot)](https://www.belajarstatistics.com/blog/2021/05/18/cara-membuat-diagram-titik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
