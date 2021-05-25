@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Operasi-Operasi pada Himpunan](https://www.belajarstatistics.com/blog/2021/05/26/operasi-pada-himpunan/)
 - [Matematika Diskrit : Dasar-Dasar Teori Himpunan](https://www.belajarstatistics.com/blog/2021/05/25/dasar-dasar-teori-himpunan/)
 - [Analisis Data Eksploratif : Contoh Soal Diagram Kotak (Box Plot)](https://www.belajarstatistics.com/blog/2021/05/24/contoh-soal-diagram-kotak-box-plot/)
 - [Analisis Data Eksploratif : Pengertian, Tujuan Transformasi Data, dan Tangga Transformasi Tukey](https://www.belajarstatistics.com/blog/2021/05/23/pengertian-transformasi-tukey/)
 - [Analisis Data Eksploratif : Cara Membuat Diagram Kotak (Box Plot) dengan Ms. Excel](https://www.belajarstatistics.com/blog/2021/05/22/cara-membuat-diagram-kotak-box-plot-dengan-ms-excel/)
-- [Analisis Data Eksploratif : Contoh Soal Ringkasan Data Numerik](https://www.belajarstatistics.com/blog/2021/05/21/contoh-soal-ringkasan-data-numerik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
