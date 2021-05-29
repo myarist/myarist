@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Contoh Soal Transformasi Data](https://www.belajarstatistics.com/blog/2021/05/30/contoh-soal-transformasi-data/)
 - [Analisis Data Eksploratif : Macam-macam Transformasi Lain](https://www.belajarstatistics.com/blog/2021/05/29/macam-macam-transformasi-lain/)
 - [Matematika Diskrit : Hukum-Hukum Himpunan](https://www.belajarstatistics.com/blog/2021/05/28/hukum-hukum-himpunan/)
 - [Matematika Diskrit : Himpunan Ganda](https://www.belajarstatistics.com/blog/2021/05/27/himpunan-ganda/)
 - [Matematika Diskrit : Operasi-Operasi pada Himpunan](https://www.belajarstatistics.com/blog/2021/05/26/operasi-pada-himpunan/)
-- [Matematika Diskrit : Dasar-Dasar Teori Himpunan](https://www.belajarstatistics.com/blog/2021/05/25/dasar-dasar-teori-himpunan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
