@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis data Eksploratif : Cara Standardisasi Data dengan Excel dan Interpretasinya](https://www.belajarstatistics.com/blog/2021/06/03/cara-standardisasi-data-dengan-excel/)
 - [Analisis data Eksploratif : Perbandingan Kesimetrisan Data Antar Variabel Secara Visual](https://www.belajarstatistics.com/blog/2021/06/02/perbandingan-kesimetrisan-data-antar-variabel/)
 - [Analisis data Eksploratif : Mendeteksi Pencilan Dengan Data Terstandar](https://www.belajarstatistics.com/blog/2021/06/01/mendeteksi-pencilan-dengan-data-terstandar/)
 - [Analisis data Eksploratif : Pengertian dan Cara Standardisasi Data Dengan Z-Score](https://www.belajarstatistics.com/blog/2021/05/31/pengertian-dan-cara-standardisasi-data/)
 - [Analisis Data Eksploratif : Contoh Soal Transformasi Data](https://www.belajarstatistics.com/blog/2021/05/30/contoh-soal-transformasi-data/)
-- [Analisis Data Eksploratif : Macam-macam Transformasi Lain](https://www.belajarstatistics.com/blog/2021/05/29/macam-macam-transformasi-lain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
