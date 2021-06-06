@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Teknik Pemulusan Data Time Series](https://www.belajarstatistics.com/blog/2021/06/07/teknik-pemulusan-data-time-series/)
 - [Analisis Data Eksploratif : Pengertian Pemulusan Data Time Series](https://www.belajarstatistics.com/blog/2021/06/06/pengertian-pemulusan-data-time-series/)
 - [Analisis data Eksploratif : Contoh Soal Standardisasi Data](https://www.belajarstatistics.com/blog/2021/06/05/contoh-soal-standardisasi-data/)
 - [Analisis data Eksploratif : Perbandingan Nilai Pengamatan Dengan Z Score](https://www.belajarstatistics.com/blog/2021/06/04/perbandingan-nilai-pengamatan-dengan-z-score/)
 - [Analisis data Eksploratif : Cara Standardisasi Data dengan Excel dan Interpretasinya](https://www.belajarstatistics.com/blog/2021/06/03/cara-standardisasi-data-dengan-excel/)
-- [Analisis data Eksploratif : Perbandingan Kesimetrisan Data Antar Variabel Secara Visual](https://www.belajarstatistics.com/blog/2021/06/02/perbandingan-kesimetrisan-data-antar-variabel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
