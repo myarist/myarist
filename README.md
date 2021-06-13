@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Sifat-Sifat Relasi](https://www.belajarstatistics.com/blog/2021/06/14/sifat-relasi/)
 - [Matematika Diskrit : Operasi-Operasi Relasi](https://www.belajarstatistics.com/blog/2021/06/13/operasi-relasi/)
 - [Matematika Diskrit : Representasi Relasi](https://www.belajarstatistics.com/blog/2021/06/12/representasi-relasi/)
 - [Matematika Diskrit : Definisi Relasi](https://www.belajarstatistics.com/blog/2021/06/11/definisi-relasi/)
 - [Matematika Diskrit : Pembuktian-Pembuktian Himpunan](https://www.belajarstatistics.com/blog/2021/06/10/pembuktian-pembuktian-himpunan/)
-- [Analisis Data Eksploratif : Contoh Soal Pemulusan Data Time Series](https://www.belajarstatistics.com/blog/2021/06/09/contoh-soal-pemulusan-data-time-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
