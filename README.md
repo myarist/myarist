@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Pengertian Pemeriksaan Kesimetrisan Data dan Q-Q Plot](https://www.belajarstatistics.com/blog/2021/06/19/pengertian-kesimetrisan-data/)
 - [Matematika Diskrit : Fungsi Injektif, Surjektif, dan Bijektif](https://www.belajarstatistics.com/blog/2021/06/18/fungsi-injektif-surjektif-dan-bijektif/)
 - [Matematika Diskrit : Definisi dan Representasi Fungsi](https://www.belajarstatistics.com/blog/2021/06/17/definisi-dan-representasi-fungsi/)
 - [Matematika Diskrit : Relasi n-ary](https://www.belajarstatistics.com/blog/2021/06/16/relasi-n-ary/)
 - [Matematika Diskrit : Jenis-Jenis Relasi](https://www.belajarstatistics.com/blog/2021/06/15/jenis-relasi/)
-- [Matematika Diskrit : Sifat-Sifat Relasi](https://www.belajarstatistics.com/blog/2021/06/14/sifat-relasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
