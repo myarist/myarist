@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Invers dan Komposisi Fungsi](https://www.belajarstatistics.com/blog/2021/06/23/invers-dan-komposisi-fungsi/)
 - [Analisis Data Eksploratif : Contoh Soal Pemeriksaan Kesimetrisan Data](https://www.belajarstatistics.com/blog/2021/06/22/contoh-soal-pemeriksaan-kesimetrisan-data/)
 - [Analisis Data Eksploratif : Cara Membuat Q-Q Plot Dengan Ms. Excel](https://www.belajarstatistics.com/blog/2021/06/21/analisis-data-eksploratif-cara-membuat-q-q-plot-dengan-ms-excel/)
 - [Analisis Data Eksploratif : Cara Membuat Q-Q Plot Secara Manual](https://www.belajarstatistics.com/blog/2021/06/20/cara-membuat-q-q-plot-secara-manual/)
 - [Analisis Data Eksploratif : Pengertian Pemeriksaan Kesimetrisan Data dan Q-Q Plot](https://www.belajarstatistics.com/blog/2021/06/19/pengertian-kesimetrisan-data/)
-- [Matematika Diskrit : Fungsi Injektif, Surjektif, dan Bijektif](https://www.belajarstatistics.com/blog/2021/06/18/fungsi-injektif-surjektif-dan-bijektif/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
