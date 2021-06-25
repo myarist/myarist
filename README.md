@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Penyelesaian Relasi Rekurensi dengan Iterasi](https://www.belajarstatistics.com/blog/2021/06/26/penyelesaian-relasi-rekurensi-dengan-iterasi/)
 - [Matematika Diskrit : Rekursi](https://www.belajarstatistics.com/blog/2021/06/25/pengertian-rekursi/)
 - [Matematika Diskrit : Beberapa Fungsi Khusus](https://www.belajarstatistics.com/blog/2021/06/24/beberapa-fungsi-khusus/)
 - [Matematika Diskrit : Invers dan Komposisi Fungsi](https://www.belajarstatistics.com/blog/2021/06/23/invers-dan-komposisi-fungsi/)
 - [Analisis Data Eksploratif : Contoh Soal Pemeriksaan Kesimetrisan Data](https://www.belajarstatistics.com/blog/2021/06/22/contoh-soal-pemeriksaan-kesimetrisan-data/)
-- [Analisis Data Eksploratif : Cara Membuat Q-Q Plot Dengan Ms. Excel](https://www.belajarstatistics.com/blog/2021/06/21/analisis-data-eksploratif-cara-membuat-q-q-plot-dengan-ms-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
