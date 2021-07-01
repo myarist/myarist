@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Koefisien Korelasi Pearson](https://www.belajarstatistics.com/blog/2021/07/02/koefisien-korelasi-pearson-2/)
 - [Analisis Data Eksploratif : Diagram Pencar (Scatter Plot)](https://www.belajarstatistics.com/blog/2021/07/01/diagram-pencar-scatter-plot/)
 - [Matematika Diskrit : Logika Ekuivalensi](https://www.belajarstatistics.com/blog/2021/06/30/logika-ekuivalensi/)
 - [Matematika Diskrit : Logika Proposisi](https://www.belajarstatistics.com/blog/2021/06/29/logika-proposisi/)
 - [Matematika Diskrit : Relasi Rekursif dalam Ilmu Komputer](https://www.belajarstatistics.com/blog/2021/06/28/relasi-rekursif-dalam-ilmu-komputer/)
-- [Matematika Diskrit : Penyelesaian Relasi Rekurensi dengan Persamaan Karakteristik](https://www.belajarstatistics.com/blog/2021/06/27/penyelesaian-relasi-rekurensi-dengan-persamaan-karakteristik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
