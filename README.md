@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Tahapan Membuat Garis Regresi Resisten dengan Excel](https://www.belajarstatistics.com/blog/2021/07/08/regresi-resisten-dengan-excel/)
 - [Analisis Data Eksploratif : Pengertian Regresi Resisten Beserta Kegunaannya](https://www.belajarstatistics.com/blog/2021/07/07/regresi-resisten-beserta-kegunaannya/)
 - [Analisis Data Eksploratif : Contoh Soal Analisis Regresi Linear Sederhana](https://www.belajarstatistics.com/blog/2021/07/06/contoh-soal-analisis-regresi-linear-sederhana/)
 - [Analisis Data Eksploratif : Cara Melakukan Analisis Regresi Linear Sederhana dengan  Excel](https://www.belajarstatistics.com/blog/2021/07/05/analisis-regresi-linear-sederhana-dengan-excel/)
 - [Analisis Data Eksploratif : Koefisien Determinasi](https://www.belajarstatistics.com/blog/2021/07/04/koefisien-determinasi/)
-- [Analisis Data Eksploratif : Regresi Linier Sederhana](https://www.belajarstatistics.com/blog/2021/07/03/regresi-linier-sederhana/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
