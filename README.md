@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Logic Puzzles](https://www.belajarstatistics.com/blog/2021/07/14/logic-puzzles/)
 - [Matematika Diskrit : Inferensi Logika](https://www.belajarstatistics.com/blog/2021/07/13/inferensi-logika/)
 - [Analisis Data Eksploratif : Contoh Soal Pemeriksaan Residual](https://www.belajarstatistics.com/blog/2021/07/12/contoh-soal-pemeriksaan-residual/)
 - [Analisis Data Eksploratif : Pemeriksaan Residual](https://www.belajarstatistics.com/blog/2021/07/11/pemeriksaan-residual/)
 - [Analisis Data Eksploratif : Apa itu Residual?](https://www.belajarstatistics.com/blog/2021/07/10/apa-itu-residual/)
-- [Analisis Data Eksploratif : Contoh Soal Regresi Resisten](https://www.belajarstatistics.com/blog/2021/07/09/contoh-soal-regresi-resisten/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
