@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Fungsi dan Komplemen Fungsi Boolean](https://www.belajarstatistics.com/blog/2021/07/19/fungsi-dan-komplemen-fungsi-boolean/)
 - [Matematika Diskrit : Hukum-Hukum Aljabar Boolean](https://www.belajarstatistics.com/blog/2021/07/18/hukum-hukum-aljabar-boolean/)
 - [Matematika Diskrit : Aljabar Boolean](https://www.belajarstatistics.com/blog/2021/07/17/aljabar-boolean/)
 - [Matematika Diskrit : Kalimat Berkuantor](https://www.belajarstatistics.com/blog/2021/07/16/kalimat-berkuantor/)
 - [Matematika Diskrit : Predikat dan Kuantifikasi](https://www.belajarstatistics.com/blog/2021/07/15/predikat-dan-kuantifikasi/)
-- [Matematika Diskrit : Logic Puzzles](https://www.belajarstatistics.com/blog/2021/07/14/logic-puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
