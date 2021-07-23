@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Contoh Soal Pemeriksaan Koefisien Kontingensi](https://www.belajarstatistics.com/blog/2021/07/24/contoh-soal-pemeriksaan-koefisien-kontingensi/)
 - [Analisis Data Eksploratif : Perhitungan Koefisien Kontingensi](https://www.belajarstatistics.com/blog/2021/07/23/perhitungan-koefisien-kontingensi/)
 - [Analisis Data Eksploratif : Pembuatan Tabel Kontingensi Dua Arah](https://www.belajarstatistics.com/blog/2021/07/22/pembuatan-tabel-kontingensi-dua-arah/)
 - [Analisis Data Eksploratif : Pengertian Koefisien Kontingensi Dua Arah](https://www.belajarstatistics.com/blog/2021/07/21/pengertian-koefisien-kontingensi-dua-arah/)
 - [Matematika Diskrit : Bentuk Kanonik dan Bentuk Baku](https://www.belajarstatistics.com/blog/2021/07/20/bentuk-kanonik-dan-bentuk-baku/)
-- [Matematika Diskrit : Fungsi dan Komplemen Fungsi Boolean](https://www.belajarstatistics.com/blog/2021/07/19/fungsi-dan-komplemen-fungsi-boolean/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
