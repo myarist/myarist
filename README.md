@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Rasio Kecenderungan (Odds Ratio)](https://www.belajarstatistics.com/blog/2021/07/28/rasio-kecenderungan-odds-ratio/)
 - [Analisis Data Eksploratif : Ukuran Kecenderungan (Odds)](https://www.belajarstatistics.com/blog/2021/07/27/ukuran-kecenderungan-odds/)
 - [Analisis Data Eksploratif : Ukuran Proporsi Terhadap Total Baris](https://www.belajarstatistics.com/blog/2021/07/26/ukuran-proporsi-terhadap-total-baris/)
 - [Analisis Data Eksploratif : Ukuran Proporsi Terhadap Total Kolom](https://www.belajarstatistics.com/blog/2021/07/25/ukuran-proporsi-terhadap-total-kolom/)
 - [Analisis Data Eksploratif : Contoh Soal Pemeriksaan Koefisien Kontingensi](https://www.belajarstatistics.com/blog/2021/07/24/contoh-soal-pemeriksaan-koefisien-kontingensi/)
-- [Analisis Data Eksploratif : Perhitungan Koefisien Kontingensi](https://www.belajarstatistics.com/blog/2021/07/23/perhitungan-koefisien-kontingensi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
