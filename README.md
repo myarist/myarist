@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Pengertian Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/07/30/pengertian-tabel-kontingensi-tiga-arah/)
 - [Analisis Data Eksploratif : Contoh Soal Ukuran Proporsi dan Kecenderungan](https://www.belajarstatistics.com/blog/2021/07/29/contoh-soal-ukuran-proporsi-dan-kecenderungan/)
 - [Analisis Data Eksploratif : Rasio Kecenderungan (Odds Ratio)](https://www.belajarstatistics.com/blog/2021/07/28/rasio-kecenderungan-odds-ratio/)
 - [Analisis Data Eksploratif : Ukuran Kecenderungan (Odds)](https://www.belajarstatistics.com/blog/2021/07/27/ukuran-kecenderungan-odds/)
 - [Analisis Data Eksploratif : Ukuran Proporsi Terhadap Total Baris](https://www.belajarstatistics.com/blog/2021/07/26/ukuran-proporsi-terhadap-total-baris/)
-- [Analisis Data Eksploratif : Ukuran Proporsi Terhadap Total Kolom](https://www.belajarstatistics.com/blog/2021/07/25/ukuran-proporsi-terhadap-total-kolom/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
