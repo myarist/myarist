@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Contoh Soal Analisis Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/08/03/contoh-soal-analisis-tabel-kontingensi-tiga-arah/)
 - [Analisis Data Eksploratif : Analisis Tabel Parsial dan Conditional Association](https://www.belajarstatistics.com/blog/2021/08/02/analisis-tabel-parsial-dan-conditional-association/)
 - [Analisis Data Eksploratif : Analisis Tabel Marginal dan Marginal Association](https://www.belajarstatistics.com/blog/2021/08/01/analisis-tabel-marginal-dan-marginal-association/)
 - [Analisis Data Eksploratif : Pembuatan Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/07/31/pembuatan-tabel-kontingensi-tiga-arah/)
 - [Analisis Data Eksploratif : Pengertian Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/07/30/pengertian-tabel-kontingensi-tiga-arah/)
-- [Analisis Data Eksploratif : Contoh Soal Ukuran Proporsi dan Kecenderungan](https://www.belajarstatistics.com/blog/2021/07/29/contoh-soal-ukuran-proporsi-dan-kecenderungan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
