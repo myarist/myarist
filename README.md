@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Prinsip Induksi Kuat](https://www.belajarstatistics.com/blog/2021/08/07/prinsip-induksi-kuat/)
 - [Matematika Diskrit : Prinsip Induksi yang Dirampatkan](https://www.belajarstatistics.com/blog/2021/08/06/prinsip-induksi-yang-dirampatkan/)
 - [Matematika Diskrit : Prinsip Induksi Sederhana](https://www.belajarstatistics.com/blog/2021/08/05/prinsip-induksi-sederhana/)
 - [Matematika Diskrit : Penyederhanaan Fungsi Boolean](https://www.belajarstatistics.com/blog/2021/08/04/penyederhanaan-fungsi-boolean/)
 - [Analisis Data Eksploratif : Contoh Soal Analisis Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/08/03/contoh-soal-analisis-tabel-kontingensi-tiga-arah/)
-- [Analisis Data Eksploratif : Analisis Tabel Parsial dan Conditional Association](https://www.belajarstatistics.com/blog/2021/08/02/analisis-tabel-parsial-dan-conditional-association/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
