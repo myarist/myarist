@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
-- [Matematika Diskrit : Prinsip Induksi Kuat](https://www.belajarstatistics.com/blog/2021/08/07/prinsip-induksi-kuat/)
-- [Matematika Diskrit : Prinsip Induksi yang Dirampatkan](https://www.belajarstatistics.com/blog/2021/08/06/prinsip-induksi-yang-dirampatkan/)
-- [Matematika Diskrit : Prinsip Induksi Sederhana](https://www.belajarstatistics.com/blog/2021/08/05/prinsip-induksi-sederhana/)
-- [Matematika Diskrit : Penyederhanaan Fungsi Boolean](https://www.belajarstatistics.com/blog/2021/08/04/penyederhanaan-fungsi-boolean/)
-- [Analisis Data Eksploratif : Contoh Soal Analisis Tabel Kontingensi Tiga Arah](https://www.belajarstatistics.com/blog/2021/08/03/contoh-soal-analisis-tabel-kontingensi-tiga-arah/)
+- [Algoritma dan Pemrogaman : Struktur Dasar Algoritma](https://www.belajarstatistik.com/blog/2021/08/10/struktur-dasar-algoritma/)
+- [Algoritma dan Pemrogaman : Flowchart](https://www.belajarstatistik.com/blog/2021/08/09/flowchart/)
+- [Algoritma dan Pemrogaman : Pengenalan](https://www.belajarstatistik.com/blog/2021/08/08/pengenalan-algoritma-dan-pemrogaman/)
+- [Seputar SPMB PolStat STIS 2021 | (Update) Panduan Tes Tahap II Psikotest dan Matematika](https://www.belajarstatistik.com/blog/2021/07/13/update-panduan-tes-tahap-ii-psikotest-dan-matematika/)
+- [Seputar SPMB PolStat STIS 2021 | Seleksi Tahap 2 Susah? Catat 5 Tips Penting Ini!](https://www.belajarstatistik.com/blog/2021/07/02/seleksi-tahap-2-susah-catat-5-tips-penting-ini/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
