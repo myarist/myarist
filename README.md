@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Struktur dan Penulisan Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/08/11/struktur-dan-penulisan-bahasa-pascal/)
 - [Algoritma dan Pemrogaman : Struktur Dasar Algoritma](https://www.belajarstatistik.com/blog/2021/08/10/struktur-dasar-algoritma/)
 - [Algoritma dan Pemrogaman : Flowchart](https://www.belajarstatistik.com/blog/2021/08/09/flowchart/)
 - [Algoritma dan Pemrogaman : Pengenalan](https://www.belajarstatistik.com/blog/2021/08/08/pengenalan-algoritma-dan-pemrogaman/)
 - [Matematika Diskrit : Prinsip Induksi Kuat](https://www.belajarstatistics.com/blog/2021/08/07/prinsip-induksi-kuat/)
-- [Matematika Diskrit : Prinsip Induksi yang Dirampatkan](https://www.belajarstatistics.com/blog/2021/08/06/prinsip-induksi-yang-dirampatkan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
