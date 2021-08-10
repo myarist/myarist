@@ -27,8 +27,8 @@
 - [Algoritma dan Pemrogaman : Struktur Dasar Algoritma](https://www.belajarstatistik.com/blog/2021/08/10/struktur-dasar-algoritma/)
 - [Algoritma dan Pemrogaman : Flowchart](https://www.belajarstatistik.com/blog/2021/08/09/flowchart/)
 - [Algoritma dan Pemrogaman : Pengenalan](https://www.belajarstatistik.com/blog/2021/08/08/pengenalan-algoritma-dan-pemrogaman/)
-- [Seputar SPMB PolStat STIS 2021 | (Update) Panduan Tes Tahap II Psikotest dan Matematika](https://www.belajarstatistik.com/blog/2021/07/13/update-panduan-tes-tahap-ii-psikotest-dan-matematika/)
-- [Seputar SPMB PolStat STIS 2021 | Seleksi Tahap 2 Susah? Catat 5 Tips Penting Ini!](https://www.belajarstatistik.com/blog/2021/07/02/seleksi-tahap-2-susah-catat-5-tips-penting-ini/)
+- [Matematika Diskrit : Prinsip Induksi Kuat](https://www.belajarstatistics.com/blog/2021/08/07/prinsip-induksi-kuat/)
+- [Matematika Diskrit : Prinsip Induksi yang Dirampatkan](https://www.belajarstatistics.com/blog/2021/08/06/prinsip-induksi-yang-dirampatkan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
