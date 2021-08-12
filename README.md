@@ -17,7 +17,7 @@
 | 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
 |:--------|:--------------------|
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
-| 📝  Article | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
+| 📝  Articles | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
 
 ## 📃 Latest Articles
 
