@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Jenis Operator dalam Pascal](https://www.belajarstatistik.com/blog/2021/08/14/jenis-operator-dalam-pascal/)
 - [Algoritma dan Pemrogaman : Tipe Data Pascal](https://www.belajarstatistik.com/blog/2021/08/13/tipe-data-pascal/)
 - [Algoritma dan Pemrogaman : Elemen Program Pascal](https://www.belajarstatistik.com/blog/2021/08/12/elemen-program-pascal/)
 - [Algoritma dan Pemrogaman : Struktur dan Penulisan Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/08/11/struktur-dan-penulisan-bahasa-pascal/)
 - [Algoritma dan Pemrogaman : Struktur Dasar Algoritma](https://www.belajarstatistik.com/blog/2021/08/10/struktur-dasar-algoritma/)
-- [Algoritma dan Pemrogaman : Flowchart](https://www.belajarstatistik.com/blog/2021/08/09/flowchart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
