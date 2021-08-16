@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Pemilihan Berjenjang](https://www.belajarstatistik.com/blog/2021/08/17/pemilihan-berjenjang/)
 - [Algoritma dan Pemrogaman : Konsep If-Then-Else](https://www.belajarstatistik.com/blog/2021/08/16/konsep-if-then-else/)
 - [Algoritma dan Pemrogaman : Konsep Pemilihan Sederhana (If-Else)](https://www.belajarstatistik.com/blog/2021/08/15/konsep-pemilihan-sederhana/)
 - [Algoritma dan Pemrogaman : Jenis Operator dalam Pascal](https://www.belajarstatistik.com/blog/2021/08/14/jenis-operator-dalam-pascal/)
 - [Algoritma dan Pemrogaman : Tipe Data Pascal](https://www.belajarstatistik.com/blog/2021/08/13/tipe-data-pascal/)
-- [Algoritma dan Pemrogaman : Elemen Program Pascal](https://www.belajarstatistik.com/blog/2021/08/12/elemen-program-pascal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
