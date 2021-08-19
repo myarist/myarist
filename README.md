@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Konsep Case](https://www.belajarstatistik.com/blog/2021/08/20/konsep-case/)
 - [Algoritma dan Pemrogaman : Kasus Else Bermasalah](https://www.belajarstatistik.com/blog/2021/08/19/kasus-else-bermasalah/)
 - [Algoritma dan Pemrogaman : Kondisi Bersarang](https://www.belajarstatistik.com/blog/2021/08/18/kondisi-bersarang/)
 - [Algoritma dan Pemrogaman : Pemilihan Berjenjang](https://www.belajarstatistik.com/blog/2021/08/17/pemilihan-berjenjang/)
 - [Algoritma dan Pemrogaman : Konsep If-Then-Else](https://www.belajarstatistik.com/blog/2021/08/16/konsep-if-then-else/)
-- [Algoritma dan Pemrogaman : Konsep Pemilihan Sederhana (If-Else)](https://www.belajarstatistik.com/blog/2021/08/15/konsep-pemilihan-sederhana/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
