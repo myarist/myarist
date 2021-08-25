@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Percabangan Tidak Bersyarat](https://www.belajarstatistik.com/blog/2021/08/26/percabangan-tidak-bersyarat/)
+- [Matematika Diskrit : Kombinasi dengan Pengulangan](https://www.belajarstatistics.com/blog/2021/08/25/kombinasi-dengan-pengulangan/)
 - [Matematika Diskrit : Bentuk Umum Permutasi dan Kombinasi](https://www.belajarstatistics.com/blog/2021/08/24/bentuk-umum-permutasi-dan-kombinasi/)
 - [Matematika Diskrit : Permutasi dan Kombinasi](https://www.belajarstatistics.com/blog/2021/08/23/permutasi-dan-kombinasi/)
 - [Matematika Diskrit : Kombinatorial](https://www.belajarstatistics.com/blog/2021/08/22/kombinatorial/)
-- [Algoritma dan Pemrogaman : Contoh Program dengan Struktur Case](https://www.belajarstatistik.com/blog/2021/08/21/contoh-program-dengan-struktur-case/)
-- [Algoritma dan Pemrogaman : Konsep Case](https://www.belajarstatistik.com/blog/2021/08/20/konsep-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
