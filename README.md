@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Struktur Repeat Until](https://www.belajarstatistik.com/blog/2021/08/29/struktur-repeat-until/)
 - [Algoritma dan Pemrogaman : Struktur While-Do](https://www.belajarstatistik.com/blog/2021/08/28/struktur-while-do/)
 - [Algoritma dan Pemrogaman : EXIT dan CASE-ELSE pada Pascal](https://www.belajarstatistik.com/blog/2021/08/27/exit-dan-case-else/)
 - [Algoritma dan Pemrogaman : Percabangan Tidak Bersyarat](https://www.belajarstatistik.com/blog/2021/08/26/percabangan-tidak-bersyarat/)
 - [Matematika Diskrit : Kombinasi dengan Pengulangan](https://www.belajarstatistics.com/blog/2021/08/25/kombinasi-dengan-pengulangan/)
-- [Matematika Diskrit : Bentuk Umum Permutasi dan Kombinasi](https://www.belajarstatistics.com/blog/2021/08/24/bentuk-umum-permutasi-dan-kombinasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
