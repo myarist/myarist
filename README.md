@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Subrange Sebagai Sub Set Enumerated](https://www.belajarstatistik.com/blog/2021/09/05/subrange-sebagai-sub-set-enumerated/)
 - [Algoritma dan Pemrogaman : Tipe Data Enumerasi dan Subrange Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/09/04/tipe-data-enumerasi-dan-subrange-bahasa-pascal/)
 - [Algoritma dan Pemrogaman : Contoh Program Pengulangan dengan Nested Loop](https://www.belajarstatistik.com/blog/2021/09/03/contoh-program-pengulangan-dengan-nested-loop/)
 - [Algoritma dan Pemrogaman : Contoh Program Pengulangan tanpa Nested Loop](https://www.belajarstatistik.com/blog/2021/09/02/contoh-program-pengulangan-tanpa-nested-loop/)
 - [Algoritma dan Pemrogaman : Nested Loop (Loop Bersarang)](https://www.belajarstatistik.com/blog/2021/09/01/nested-loop/)
-- [Algoritma dan Pemrogaman : Struktur For](https://www.belajarstatistik.com/blog/2021/08/31/struktur-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
