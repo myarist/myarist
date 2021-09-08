@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Identifier dan Parameter](https://www.belajarstatistik.com/blog/2021/09/09/identifier-dan-parameter/)
 - [Algoritma dan Pemrogaman : Prosedur dan Fungsi](https://www.belajarstatistik.com/blog/2021/09/08/prosedur-dan-fungsi/)
 - [Algoritma dan Pemrogaman : Konsep Dasar Sub Program](https://www.belajarstatistik.com/blog/2021/09/07/konsep-dasar-sub-program/)
 - [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal dengan Tipe Data Enumerasi dan Sub Range](https://www.belajarstatistik.com/blog/2021/09/06/contoh-program-bahasa-pascal-dengan-tipe-data-enumerasi-dan-sub-range/)
 - [Algoritma dan Pemrogaman : Subrange Sebagai Sub Set Enumerated](https://www.belajarstatistik.com/blog/2021/09/05/subrange-sebagai-sub-set-enumerated/)
-- [Algoritma dan Pemrogaman : Tipe Data Enumerasi dan Subrange Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/09/04/tipe-data-enumerasi-dan-subrange-bahasa-pascal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
