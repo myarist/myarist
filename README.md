@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Koefisien Binomial](https://www.belajarstatistics.com/blog/2021/09/11/koefisien-binomial/)
 - [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal Dengan Sub Program](https://www.belajarstatistik.com/blog/2021/09/10/contoh-program-bahasa-pascal-dengan-sub-program/)
 - [Algoritma dan Pemrogaman : Identifier dan Parameter](https://www.belajarstatistik.com/blog/2021/09/09/identifier-dan-parameter/)
 - [Algoritma dan Pemrogaman : Prosedur dan Fungsi](https://www.belajarstatistik.com/blog/2021/09/08/prosedur-dan-fungsi/)
 - [Algoritma dan Pemrogaman : Konsep Dasar Sub Program](https://www.belajarstatistik.com/blog/2021/09/07/konsep-dasar-sub-program/)
-- [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal dengan Tipe Data Enumerasi dan Sub Range](https://www.belajarstatistik.com/blog/2021/09/06/contoh-program-bahasa-pascal-dengan-tipe-data-enumerasi-dan-sub-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
