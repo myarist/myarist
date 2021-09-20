@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Fungsi Rekursif](https://www.belajarstatistik.com/blog/2021/09/21/fungsi-rekursif/)
 - [Algoritma dan Pemrogaman : Konsep Rekursi](https://www.belajarstatistik.com/blog/2021/09/20/konsep-rekursif/)
 - [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal Tipe Data Record](https://www.belajarstatistik.com/blog/2021/09/19/contoh-program-bahasa-pascal-tipe-data-record/)
 - [Algoritma dan Pemrogaman : Tipe Data Record](https://www.belajarstatistik.com/blog/2021/09/18/tipe-data-record/)
 - [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal dengan Array](https://www.belajarstatistik.com/blog/2021/09/17/contoh-program-bahasa-pascal-dengan-array/)
-- [Algoritma dan Pemrogaman : Array Dua Dimensi dan Multi Dimensi](https://www.belajarstatistik.com/blog/2021/09/16/array-dua-dimensi-dan-multi-dimensi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
