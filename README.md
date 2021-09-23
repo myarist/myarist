@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Relatif Prima](https://www.belajarstatistics.com/blog/2021/09/24/relatif-prima/)
 - [Matematika Diskrit : Kombinasi Linier](https://www.belajarstatistics.com/blog/2021/09/23/kombinasi-linier/)
 - [Algoritma dan Pemrogaman : Prosedur Rekursif](https://www.belajarstatistik.com/blog/2021/09/22/prosedur-rekursif/)
 - [Algoritma dan Pemrogaman : Fungsi Rekursif](https://www.belajarstatistik.com/blog/2021/09/21/fungsi-rekursif/)
 - [Algoritma dan Pemrogaman : Konsep Rekursi](https://www.belajarstatistik.com/blog/2021/09/20/konsep-rekursif/)
-- [Algoritma dan Pemrogaman : Contoh Program Bahasa Pascal Tipe Data Record](https://www.belajarstatistik.com/blog/2021/09/19/contoh-program-bahasa-pascal-tipe-data-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
