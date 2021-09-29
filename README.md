@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Bilangan Prima](https://www.belajarstatistics.com/blog/2021/09/30/bilangan-prima/)
 - [Matematika Diskrit : Chinese Remainder Problem](https://www.belajarstatistics.com/blog/2021/09/29/chinese-remainder-problem/)
 - [Matematika Diskrit : Sistem Kekongruenan Linier](https://www.belajarstatistics.com/blog/2021/09/28/sistem-kekongruenan-linier/)
 - [Matematika Diskrit : Balikan Modulo (Modulo Invers)](https://www.belajarstatistics.com/blog/2021/09/27/balikan-modulo/)
 - [Matematika Diskrit : Kongruen](https://www.belajarstatistics.com/blog/2021/09/26/kongruen/)
-- [Matematika Diskrit : Aritmetika Modulo](https://www.belajarstatistics.com/blog/2021/09/25/aritmetika-modulo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
