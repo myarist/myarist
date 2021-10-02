@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Terminologi Graf](https://www.belajarstatistics.com/blog/2021/10/03/terminologi-graf/)
 - [Matematika Diskrit : Definisi dan Jenis-Jenis Graf](https://www.belajarstatistics.com/blog/2021/10/02/definisi-dan-jenis-jenis-graf/)
 - [Tutorial EViews 10 – Melihat Pola Data Time Series](https://www.belajarstatistik.com/blog/2021/10/01/melihat-pola-data-time-series/)
 - [Matematika Diskrit : Bilangan Prima](https://www.belajarstatistics.com/blog/2021/09/30/bilangan-prima/)
 - [Matematika Diskrit : Chinese Remainder Problem](https://www.belajarstatistics.com/blog/2021/09/29/chinese-remainder-problem/)
-- [Matematika Diskrit : Sistem Kekongruenan Linier](https://www.belajarstatistics.com/blog/2021/09/28/sistem-kekongruenan-linier/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
