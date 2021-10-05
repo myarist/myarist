@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Representasi Graf dalam Matriks](https://www.belajarstatistics.com/blog/2021/10/06/representasi-graf-dalam-matriks/)
 - [Matematika Diskrit : Graf Khusus](https://www.belajarstatistics.com/blog/2021/10/05/graf-khusus/)
 - [Matematika Diskrit : Subgraf dan Komplemen](https://www.belajarstatistics.com/blog/2021/10/04/subgraf-dan-komplemen/)
 - [Matematika Diskrit : Terminologi Graf](https://www.belajarstatistics.com/blog/2021/10/03/terminologi-graf/)
 - [Matematika Diskrit : Definisi dan Jenis-Jenis Graf](https://www.belajarstatistics.com/blog/2021/10/02/definisi-dan-jenis-jenis-graf/)
-- [Tutorial EViews 10 – Melihat Pola Data Time Series](https://www.belajarstatistik.com/blog/2021/10/01/melihat-pola-data-time-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
