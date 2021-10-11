@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit : Lintasan dan Sirkuit Hamilton](https://www.belajarstatistics.com/blog/2021/10/12/lintasan-dan-sirkuit-hamilton/)
 - [Matematika Diskrit : Lintasan dan Sirkuit Euler](https://www.belajarstatistics.com/blog/2021/10/11/lintasan-dan-sirkuit-euler/)
 - [Matematika Diskrit : Graf Dual](https://www.belajarstatistics.com/blog/2021/10/10/graf-dual/)
 - [Matematika Diskrit : Keplanaran Suatu Graf](https://www.belajarstatistics.com/blog/2021/10/09/keplanaran-suatu-graf/)
 - [Matematika Diskrit : Graf Planar dan Graf Bidang](https://www.belajarstatistics.com/blog/2021/10/08/graf-planar-dan-graf-bidang/)
-- [Matematika Diskrit : Isomorfisme dan Graf Isomorfik](https://www.belajarstatistics.com/blog/2021/10/07/isomorfisme-dan-graf-isomorfik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
