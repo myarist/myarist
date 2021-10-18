@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Matematika Diskrit: Penelusuran Pohon Biner](https://www.belajarstatistics.com/blog/2021/10/19/penelusuran-pohon-biner/)
 - [Matematika Diskrit: Pohon Biner (Binary Tree)](https://www.belajarstatistics.com/blog/2021/10/18/pohon-biner/)
 - [Matematika Diskrit: Pohon Terurut dan Pohon n-ary](https://www.belajarstatistics.com/blog/2021/10/17/pohon-terurut/)
 - [Matematika Diskrit: Pohon Berakar (Rooted Tree)](https://www.belajarstatistics.com/blog/2021/10/16/pohon-berakar/)
 - [Matematika Diskrit: Pohon Merentang (Spanning Tree)](https://www.belajarstatistics.com/blog/2021/10/15/pohon-merentang/)
-- [Matematika Diskrit: Definisi dan Sifat Pohon (Tree)](https://www.belajarstatistics.com/blog/2021/10/14/definisi-dan-sifat-pohon/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
