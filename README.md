@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Central Limit Theorem](https://www.belajarstatistik.com/blog/2021/10/23/central-limit-theorem/)
 - [Metode Statistika II : Distribusi Sampling Rata-Rata](https://www.belajarstatistik.com/blog/2021/10/22/distribusi-sampling-rata-rata/)
 - [Metode Statistika II : Konsep Distribusi Sampling](https://www.belajarstatistik.com/blog/2021/10/21/konsep-distribusi-sampling/)
 - [Metode Statistika II : Klasifikasi Statistika](https://www.belajarstatistik.com/blog/2021/10/20/klasifikasi-statistika/)
 - [Matematika Diskrit: Penelusuran Pohon Biner](https://www.belajarstatistics.com/blog/2021/10/19/penelusuran-pohon-biner/)
-- [Matematika Diskrit: Pohon Biner (Binary Tree)](https://www.belajarstatistics.com/blog/2021/10/18/pohon-biner/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
