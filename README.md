@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Special Case Pada Rekursi dan Perancangan Algoritma Rekursif](https://www.belajarstatistik.com/blog/2021/10/25/special-case-pada-rekursi/)
 - [Algoritma dan Pemrogaman : Rekursif Tak Hingga](https://www.belajarstatistik.com/blog/2021/10/24/rekursif-tak-hingga/)
 - [Metode Statistika II : Central Limit Theorem](https://www.belajarstatistik.com/blog/2021/10/23/central-limit-theorem/)
 - [Metode Statistika II : Distribusi Sampling Rata-Rata](https://www.belajarstatistik.com/blog/2021/10/22/distribusi-sampling-rata-rata/)
 - [Metode Statistika II : Konsep Distribusi Sampling](https://www.belajarstatistik.com/blog/2021/10/21/konsep-distribusi-sampling/)
-- [Metode Statistika II : Klasifikasi Statistika](https://www.belajarstatistik.com/blog/2021/10/20/klasifikasi-statistika/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
