@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrogaman : Program Pencarian Sekuensial dan Biner Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/10/29/program-pencarian-sekuensial-dan-biner/)
 - [Algoritma dan Pemrogaman : Contoh Program Rekursif Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/10/28/contoh-program-rekursif/)
 - [Algoritma dan Pemrogaman : Fungsi atau Prosedur Rekursif](https://www.belajarstatistik.com/blog/2021/10/27/fungsi-atau-prosedur-rekursif/)
 - [Algoritma dan Pemrogaman : Menerapkan Konsep Rekursif Pada Kasus Menara Hanoi](https://www.belajarstatistik.com/blog/2021/10/26/menara-hanoi/)
 - [Algoritma dan Pemrogaman : Special Case Pada Rekursi dan Perancangan Algoritma Rekursif](https://www.belajarstatistik.com/blog/2021/10/25/special-case-pada-rekursi/)
-- [Algoritma dan Pemrogaman : Rekursif Tak Hingga](https://www.belajarstatistik.com/blog/2021/10/24/rekursif-tak-hingga/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
