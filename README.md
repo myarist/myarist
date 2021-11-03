@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Algoritma dan Pemrograman : Pengurutan Data Metode Insertion Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/04/pengurutan-data-metode-insertion/)
 - [Algoritma dan Pemrograman : Pengurutan Data Metode Selection Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/03/pengurutan-data-metode-selection/)
 - [Algoritma dan Pemrograman : Pengurutan Data Metode Bubble Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/02/pengurutan-data-metode-bubble/)
 - [Algoritma dan Pemrogaman : Contoh Program Pencarian Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/01/contoh-program-pencarian/)
 - [Algoritma dan Pemrogaman : Pencarian Biner Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/10/31/pencarian-biner/)
-- [Algoritma dan Pemrogaman : Pencarian Sekuensial Pada Array Terurut dan Tidak Terurut Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/10/30/pencarian-sekuensial-pada-array-terurut-dan-tidak-terurut/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
