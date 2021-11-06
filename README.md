@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Distribusi Sampling Beda Proporsi](https://www.belajarstatistik.com/blog/2021/11/07/distribusi-sampling-beda-proporsi/)
 - [Metode Statistika II : Distribusi Sampling Beda Rata-Rata](https://www.belajarstatistik.com/blog/2021/11/06/distribusi-sampling-beda-rata-rata/)
 - [Algoritma dan Pemrogaman : Contoh Program Pengurutan Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/05/contoh-program-pengurutan/)
 - [Algoritma dan Pemrograman : Pengurutan Data Metode Insertion Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/04/pengurutan-data-metode-insertion/)
 - [Algoritma dan Pemrograman : Pengurutan Data Metode Selection Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/03/pengurutan-data-metode-selection/)
-- [Algoritma dan Pemrograman : Pengurutan Data Metode Bubble Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/02/pengurutan-data-metode-bubble/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
