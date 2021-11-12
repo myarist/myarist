@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Estimasi Interval Sampel Berpasangan](https://www.belajarstatistik.com/blog/2021/11/13/estimasi-interval-sampel-berpasangan/)
 - [Metode Statistika II : Estimasi Interval Perbedaan 2 Rata-Rata](https://www.belajarstatistik.com/blog/2021/11/12/estimasi-interval-perbedaan-2-rata-rata/)
 - [Metode Statistika II : Estimasi Interval Varians 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/11/estimasi-interval-varians-1-populasi/)
 - [Metode Statistika II : Estimasi Interval Proporsi 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/10/estimasi-interval-proporsi-1-populasi/)
 - [Metode Statistika II : Estimasi Interval Rata-Rata 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/09/estimasi-interval-rata-rata-1-populasi/)
-- [Metode Statistika II : Jenis-Jenis Estimasi](https://www.belajarstatistik.com/blog/2021/11/08/jenis-jenis-estimasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
