@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Hipotesis Rata-Rata 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/19/uji-hipotesis-rata-rata-1-populasi/)
 - [Metode Statistika II : Jenis Pengujian Hipotesis](https://www.belajarstatistik.com/blog/2021/11/18/jenis-pengujian-hipotesis/)
 - [Metode Statistika II : Tipe Kesalahan Pengujian Hipotesis](https://www.belajarstatistik.com/blog/2021/11/17/tipe-kesalahan-pengujian-hipotesis/)
 - [Metode Statistika II : Konsep Hipotesis Statistik](https://www.belajarstatistik.com/blog/2021/11/16/konsep-hipotesis-statistik/)
 - [Metode Statistika II : Estimasi Interval Rasio 2 Varians](https://www.belajarstatistik.com/blog/2021/11/15/estimasi-interval-rasio-2-varians/)
-- [Metode Statistika II : Estimasi Interval Perbedaan 2 Proporsi](https://www.belajarstatistik.com/blog/2021/11/14/estimasi-interval-perbedaan-2-proporsi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
