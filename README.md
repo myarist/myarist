@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Hipotesis Varians 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/25/uji-hipotesis-varians-1-populasi/)
 - [Metode Statistika II : Uji Hipotesis Rata-Rata 2 Populasi Independen](https://www.belajarstatistik.com/blog/2021/11/24/uji-hipotesis-rata-rata-2-populasi-independen/)
 - [Metode Statistika II : Uji Hipotesis Proporsi 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/23/uji-hipotesis-proporsi-1-populasi/)
 - [NIK Presiden Bocor, Loh Bukannya NIK Memang Mudah Ditebak? Begini Caranya](https://www.belajarstatistik.com/blog/2021/11/21/nik-presiden-bocor/)
 - [Metode Statistika yang Sering Jadi Langganan Dalam Skripsi Mahasiswa](https://www.belajarstatistik.com/blog/2021/11/20/metode-statistika-langganan-skripsi-mahasiswa/)
-- [Metode Statistika II : Uji Hipotesis Rata-Rata 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/19/uji-hipotesis-rata-rata-1-populasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
