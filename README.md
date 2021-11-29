@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Array dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/30/array-dalam-bahasa-c/)
 - [Struktur Data : Tipe Data dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/29/tipe-data-dalam-bahasa-c/)
 - [Struktur Data : File Header dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/28/file-header-dalam-bahasa-c/)
 - [Struktur Data : Apa Itu Bahasa C?](https://www.belajarstatistik.com/blog/2021/11/27/apa-itu-bahasa-c/)
 - [Metode Statistika : Uji Hipotesis Varians 2 Populasi](https://www.belajarstatistik.com/blog/2021/11/26/uji-hipotesis-varians-2-populasi/)
-- [Metode Statistika II : Uji Hipotesis Varians 1 Populasi](https://www.belajarstatistik.com/blog/2021/11/25/uji-hipotesis-varians-1-populasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
