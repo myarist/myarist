@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Scope dalam Program Bahasa C](https://www.belajarstatistik.com/blog/2021/12/02/scope-dalam-program-bahasa-c/)
 - [Struktur Data : Contoh Program Array dengan Bahasa C](https://www.belajarstatistik.com/blog/2021/12/01/contoh-program-array-dengan-bahasa-c/)
 - [Struktur Data : Array dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/30/array-dalam-bahasa-c/)
 - [Struktur Data : Tipe Data dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/29/tipe-data-dalam-bahasa-c/)
 - [Struktur Data : File Header dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/11/28/file-header-dalam-bahasa-c/)
-- [Struktur Data : Apa Itu Bahasa C?](https://www.belajarstatistik.com/blog/2021/11/27/apa-itu-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
