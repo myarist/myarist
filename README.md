@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Liliefors](https://www.belajarstatistik.com/blog/2021/12/11/uji-liliefors/)
 - [Struktur Data : Alokasi Memori Dinamis – malloc&lpar;&rpar; dan calloc&lpar;&rpar;](https://www.belajarstatistik.com/blog/2021/12/08/alokasi-memori-dinamis-malloc-dan-calloc/)
 - [Struktur Data : Alokasi Memori Dinamis – sizeof&lpar;&rpar;](https://www.belajarstatistik.com/blog/2021/12/07/alokasi-memori-dinamis-sizeof/)
 - [Struktur Data : Fungsi dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/12/06/fungsi-dalam-bahasa-c/)
 - [Struktur Data : Double Pointer dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/12/05/double-pointer-dalam-bahasa-c/)
-- [Struktur Data : Pointer dalam Bahasa C](https://www.belajarstatistik.com/blog/2021/12/04/pointer-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
