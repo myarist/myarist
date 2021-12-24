@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Film Spider-Man: No Way Home Baru Saja Rilis. Analisis Trennya, Yuk!](https://www.belajarstatistik.com/blog/2021/12/25/film-spider-man-no-way-home-baru-saja-rilis-analisis-trennya-yuk/)
 - [Omicron Masuk Indonesia, Bagaimana Cara Menghitung Tingkat Penularannya?](https://www.belajarstatistik.com/blog/2021/12/23/omicron-masuk-indonesia-bagaimana-cara-menghitung-tingkat-penularannya/)
 - [Tutorial Regresi Linear dengan Kalkulator Casio](https://www.belajarstatistik.com/blog/2021/12/13/tutorial-regresi-linear-dengan-kalkulator-casio/)
 - [Metode Statistika II : Uji Shapiro Wilk](https://www.belajarstatistik.com/blog/2021/12/12/uji-shapiro-wilk/)
 - [Metode Statistika II : Uji Liliefors](https://www.belajarstatistik.com/blog/2021/12/11/uji-liliefors/)
-- [Struktur Data : Alokasi Memori Dinamis – malloc&lpar;&rpar; dan calloc&lpar;&rpar;](https://www.belajarstatistik.com/blog/2021/12/08/alokasi-memori-dinamis-malloc-dan-calloc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
