@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Operasi Menghapus Node Pada Single Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/01/27/operasi-menghapus-node-pada-single-linked-list-bahasa-c/)
 - [Struktur Data : Operasi Menambah Node Pada Single Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/01/26/operasi-menambah-node-pada-single-linked-list-bahasa-c/)
 - [Struktur Data : Deklarasi Single Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/01/25/deklarasi-single-linked-list-dalam-bahasa-c/)
 - [Struktur Data : Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/01/24/linked-list-dalam-bahasa-c/)
 - [Struktur Data : Alokasi Memori Dinamis – free&lpar;&rpar;](https://www.belajarstatistik.com/blog/2022/01/22/alokasi-memori-dinamis-free/)
-- [Struktur Data : Alokasi Memori Dinamis – realloc&lpar;&rpar;](https://www.belajarstatistik.com/blog/2022/01/21/alokasi-memori-dinamis-realloc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
