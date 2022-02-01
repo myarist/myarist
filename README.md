@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Operasi Menghapus Node Pada Double Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/02/02/operasi-menghapus-node-pada-double-linked-list-bahasa-c/)
+- [Cara Memasang Sampel Database Employees](https://www.belajarstatistik.com/blog/2022/02/02/instalasi-database-employees/)
 - [Struktur Data : Operasi Menambah Node Pada Double Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/02/01/operasi-menambah-node-pada-double-linked-list-bahasa-c/)
 - [Struktur Data : Deklarasi Double Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/01/31/deklarasi-double-linked-list-dalam-bahasa-c/)
 - [Struktur Data : Contoh Program Single Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/01/29/contoh-program-single-linked-list-dalam-bahasa-c/)
-- [Struktur Data : Program Single Linked List Lengkap dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/01/28/program-single-linked-list-lengkap-dalam-bahasa-c/)
-- [Struktur Data : Operasi Menghapus Node Pada Single Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/01/27/operasi-menghapus-node-pada-single-linked-list-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
