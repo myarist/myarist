@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Implementasi Stack Menggunakan Array dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/07/implementasi-stack-menggunakan-array-dalam-bahasa-c/)
 - [Struktur Data : Stack dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/05/stack-dalam-bahasa-c/)
 - [Struktur Data : Contoh Program Double Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/04/contoh-program-double-linked-list-dalam-bahasa-c/)
 - [Struktur Data : Program Double Linked List Lengkap dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/03/program-double-linked-list-lengkap-dalam-bahasa-c/)
 - [Struktur Data : Operasi Menghapus Node Pada Double Linked List Bahasa C](https://www.belajarstatistik.com/blog/2022/02/02/operasi-menghapus-node-pada-double-linked-list-bahasa-c/)
-- [Cara Memasang Sampel Database Employees](https://www.belajarstatistik.com/blog/2022/02/02/instalasi-database-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
