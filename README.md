@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Implementasi Queue Menggunakan Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/12/implementasi-queue-menggunakan-linked-list-dalam-bahasa-c/)
 - [Struktur Data :  Implementasi Queue Menggunakan Array dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/11/implementasi-queue-menggunakan-array-dalam-bahasa-c/)
 - [Struktur Data : Queue dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/10/queue-dalam-bahasa-c/)
 - [Struktur Data : Contoh Progam Stack dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/09/contoh-progam-stack-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Stack Menggunakan Linked List](https://www.belajarstatistik.com/blog/2022/02/08/implementasi-stack-menggunakan-linked-list/)
-- [Struktur Data : Implementasi Stack Menggunakan Array dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/07/implementasi-stack-menggunakan-array-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
