@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Implementasi Tree Tranversal dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/18/implementasi-tree-tranversal-dalam-bahasa-c/)
 - [Struktur Data : Tree Tranversal](https://www.belajarstatistik.com/blog/2022/02/17/ree-tranversal/)
 - [Struktur Data : Implementasi Binary Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/16/implementasi-binary-tree-dalam-bahasa-c/)
 - [Struktur Data : Binary Tree](https://www.belajarstatistik.com/blog/2022/02/15/binary-tree-dalam-bahasa-c/)
 - [Struktur Data : Contoh Progam Queue dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/14/contoh-progam-queue-dalam-bahasa-c/)
-- [Struktur Data : Implementasi Queue Menggunakan Linked List dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/12/implementasi-queue-menggunakan-linked-list-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
