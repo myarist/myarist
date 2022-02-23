@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : B-Tree](https://www.belajarstatistik.com/blog/2022/02/24/b-tree/)
 - [Struktur Data : Multi-Way Search Tree](https://www.belajarstatistik.com/blog/2022/02/23/multi-way-search-tree/)
 - [Struktur Data : Contoh Program Binary Search dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/22/contoh-program-binary-search-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Binary Search Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/21/implementasi-binary-search-tree-dalam-bahasa-c/)
 - [Struktur Data : Binary Search Tree](https://www.belajarstatistik.com/blog/2022/02/19/binary-search-tree/)
-- [Struktur Data : Implementasi Tree Tranversal dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/18/implementasi-tree-tranversal-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
