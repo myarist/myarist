@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Contoh Program AVL Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/01/contoh-program-avl-tree-dalam-bahasa-c/)
 - [Struktur Data : Implementasi AVL Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/28/implementasi-avl-tree-dalam-bahasa-c/)
 - [Struktur Data : Operasi AVL Tree](https://www.belajarstatistik.com/blog/2022/02/26/operasi-avl-tree/)
 - [Struktur Data : AVL Tree](https://www.belajarstatistik.com/blog/2022/02/25/avl-tree/)
 - [Struktur Data : B-Tree](https://www.belajarstatistik.com/blog/2022/02/24/b-tree/)
-- [Struktur Data : Multi-Way Search Tree](https://www.belajarstatistik.com/blog/2022/02/23/multi-way-search-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
