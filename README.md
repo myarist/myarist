@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Hash Function](https://www.belajarstatistik.com/blog/2022/03/05/hash-function/)
 - [Struktur Data : Hashing](https://www.belajarstatistik.com/blog/2022/03/04/hashing/)
 - [Struktur Data : Implementasi Heap dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/03/implementasi-heap-dalam-bahasa-c/)
 - [Struktur Data : Heap](https://www.belajarstatistik.com/blog/2022/03/02/heap/)
 - [Struktur Data : Contoh Program AVL Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/01/contoh-program-avl-tree-dalam-bahasa-c/)
-- [Struktur Data : Implementasi AVL Tree dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/02/28/implementasi-avl-tree-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
