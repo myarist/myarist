@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Contoh Program Hashing dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/09/contoh-program-hashing-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Hash dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/08/implementasi-hash-dalam-bahasa-c/)
 - [Struktur Data : Collision Resolution](https://www.belajarstatistik.com/blog/2022/03/07/collision-resolution/)
 - [Struktur Data : Hash Function](https://www.belajarstatistik.com/blog/2022/03/05/hash-function/)
 - [Struktur Data : Hashing](https://www.belajarstatistik.com/blog/2022/03/04/hashing/)
-- [Struktur Data : Implementasi Heap dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/03/implementasi-heap-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
