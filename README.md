@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Implementasi Program Pencarian dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/14/implementasi-program-pencarian-dalam-bahasa-c/)
 - [Struktur Data : Binary Search](https://www.belajarstatistik.com/blog/2022/03/12/binary-search/)
 - [Struktur Data : Sequential Search](https://www.belajarstatistik.com/blog/2022/03/11/sequential-search/)
 - [Struktur Data : Konsep Searching](https://www.belajarstatistik.com/blog/2022/03/10/konsep-searching/)
 - [Struktur Data : Contoh Program Hashing dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/09/contoh-program-hashing-dalam-bahasa-c/)
-- [Struktur Data : Implementasi Hash dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/08/implementasi-hash-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
