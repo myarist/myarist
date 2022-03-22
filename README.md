@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Goodness of Fit](https://www.belajarstatistik.com/blog/2022/03/23/goodness-of-fit/)
 - [Struktur Data : Contoh Program Pengurutan dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/22/contoh-program-pengurutan-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Program Pengurutan dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/21/implementasi-program-pengurutan-dalam-bahasa-c/)
 - [Struktur Data : Bubble Sort dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/19/bubble-sort-dalam-bahasa-c/)
 - [Struktur Data : Merge Sort dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/18/merge-sort-dalam-bahasa-c/)
-- [Struktur Data : Selection Sort dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/03/17/selection-sort-dalam-bahasa-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
