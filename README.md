@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Levene](https://www.belajarstatistik.com/blog/2022/03/29/uji-levene/)
 - [Metode Statistika II : Uji Pendekatan Chi Square](https://www.belajarstatistik.com/blog/2022/03/28/uji-pendekatan-chi-square/)
 - [Metode Statistika II : Uji Bartlett](https://www.belajarstatistik.com/blog/2022/03/26/uji-bartlett/)
 - [Metode Statistika II : Jarque Berra](https://www.belajarstatistik.com/blog/2022/03/25/jarque-berra/)
 - [Metode Statistika II : Kolmogorov Smirnov](https://www.belajarstatistik.com/blog/2022/03/24/kolmogorov-smirnov/)
-- [Metode Statistika II : Goodness of Fit](https://www.belajarstatistik.com/blog/2022/03/23/goodness-of-fit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
