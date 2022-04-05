@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Contoh Soal Anova 2 Arah dan Pembahasan](https://www.belajarstatistik.com/blog/2022/04/06/contoh-soal-anova-2-arah-dan-pembahasan/)
 - [Metode Statistika II : Uji Perbandingan Berganda &lpar;Anova 2 Arah&rpar;](https://www.belajarstatistik.com/blog/2022/04/05/uji-perbandingan-berganda-anova-2-arah/)
 - [Metode Statistika II : Uji Anova 2 Arah Dengan Replikasi](https://www.belajarstatistik.com/blog/2022/04/04/uji-anova-2-arah-dengan-replikasi/)
 - [Metode Statistika II : Uji Anova 2 Arah Tanpa Replikasi](https://www.belajarstatistik.com/blog/2022/04/02/uji-anova-2-arah-tanpa-replikasi/)
 - [Metode Statistika II : Contoh Soal Anova 1 Arah &amp; Pembahasan](https://www.belajarstatistik.com/blog/2022/04/01/contoh-soal-anova-1-arah-dan-pembahasan/)
-- [Metode Statistika II : Uji Perbandingan Ganda pada Anova 1 Arah](https://www.belajarstatistik.com/blog/2022/03/31/uji-perbandingan-ganda-pada-anova-1-arah/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
