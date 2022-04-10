@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Kamu Kurang Bahagia? Lansia, Kepala Keluarga, dan Kesepian? &lpar;Part 2&rpar;](https://www.belajarstatistik.com/blog/2022/04/11/kamu-kurang-bahagia-lansia-kepala-keluarga-dan-kesepian/)
 - [Kamu Kurang Bahagia? Orang Desa, Perempuan, dan Jomlo? &lpar;Part 1&rpar;](https://www.belajarstatistik.com/blog/2022/04/09/kamu-kurang-bahagia-orang-desa-perempuan-dan-jomlo/)
 - [Metode Statistika II : Uji K Populasi Multinomial](https://www.belajarstatistik.com/blog/2022/04/08/uji-k-populasi-multinomial/)
 - [Metode Statistika II : Uji K Populasi Binomial](https://www.belajarstatistik.com/blog/2022/04/07/uji-k-populasi-binomial/)
 - [Metode Statistika II : Contoh Soal Anova 2 Arah dan Pembahasan](https://www.belajarstatistik.com/blog/2022/04/06/contoh-soal-anova-2-arah-dan-pembahasan/)
-- [Metode Statistika II : Uji Perbandingan Berganda &lpar;Anova 2 Arah&rpar;](https://www.belajarstatistik.com/blog/2022/04/05/uji-perbandingan-berganda-anova-2-arah/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
