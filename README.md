@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Keacakan &lpar;Run Test&rpar; pada Sampel Besar](https://www.belajarstatistik.com/blog/2022/04/14/uji-keacakan-run-test-pada-sampel-besar/)
 - [Metode Statistika II : Uji Keacakan &lpar;Run Test&rpar; pada Sampel Kecil](https://www.belajarstatistik.com/blog/2022/04/13/uji-keacakan-run-test-pada-sampel-kecil/)
 - [Kamu Kurang Bahagia? Gaji Minim, Pendidikan Rendah, dan Tinggal di Jakarta? &lpar;Part 3&rpar;](https://www.belajarstatistik.com/blog/2022/04/12/kamu-kurang-bahagia-gaji-minim-pendidikan-rendah-dan-tinggal-di-jakarta/)
 - [Kamu Kurang Bahagia? Lansia, Kepala Keluarga, dan Kesepian? &lpar;Part 2&rpar;](https://www.belajarstatistik.com/blog/2022/04/11/kamu-kurang-bahagia-lansia-kepala-keluarga-dan-kesepian/)
 - [Kamu Kurang Bahagia? Orang Desa, Perempuan, dan Jomlo? &lpar;Part 1&rpar;](https://www.belajarstatistik.com/blog/2022/04/09/kamu-kurang-bahagia-orang-desa-perempuan-dan-jomlo/)
-- [Metode Statistika II : Uji K Populasi Multinomial](https://www.belajarstatistik.com/blog/2022/04/08/uji-k-populasi-multinomial/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
