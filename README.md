@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Kolmogorov Smirnov](https://www.belajarstatistik.com/blog/2022/04/20/uji-kolmogorov-smirnov/)
 - [Metode Statistika II : Mann-Whitney U Test](https://www.belajarstatistik.com/blog/2022/04/19/mann-whitney-u-test/)
 - [Metode Statistika II : Wilcoxon Signed – Rank Test](https://www.belajarstatistik.com/blog/2022/04/18/wilcoxon-signed-rank-test/)
 - [Metode Statistika II : Uji Tanda Data Berpasangan](https://www.belajarstatistik.com/blog/2022/04/16/uji-tanda-data-berpasangan/)
 - [Metode Statistika II : Uji Tanda Satu Sampel](https://www.belajarstatistik.com/blog/2022/04/15/uji-tanda-satu-sampel/)
-- [Metode Statistika II : Uji Keacakan &lpar;Run Test&rpar; pada Sampel Besar](https://www.belajarstatistik.com/blog/2022/04/14/uji-keacakan-run-test-pada-sampel-besar/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
