@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Uji Korelasi Pearson](https://www.belajarstatistik.com/blog/2022/04/26/uji-korelasi-pearson/)
 - [Metode Statistika II : Contoh Soal dan Pembahasan Uji Friedman](https://www.belajarstatistik.com/blog/2022/04/25/contoh-soal-dan-pembahasan-uji-friedman/)
 - [Metode Statistika II : Uji Friedman](https://www.belajarstatistik.com/blog/2022/04/23/uji-friedman/)
 - [Metode Statistika II : Contoh Soal &amp; Pembahasan Uji Kruskal Wallis](https://www.belajarstatistik.com/blog/2022/04/22/contoh-soal-dan-pembahasan-uji-kruskal-wallis/)
 - [Metode Statistika II : Uji Kruskal Wallis](https://www.belajarstatistik.com/blog/2022/04/21/uji-kruskal-wallis/)
-- [Metode Statistika II : Uji Kolmogorov Smirnov](https://www.belajarstatistik.com/blog/2022/04/20/uji-kolmogorov-smirnov/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
