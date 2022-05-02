@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Statistika II : Latihan Soal Ancova dan Pembahasan](https://www.belajarstatistik.com/blog/2022/05/03/latihan-soal-ancova-dan-pembahasan/)
 - [Metode Statistika II : Uji Parameter Menggunakan Ancova](https://www.belajarstatistik.com/blog/2022/05/02/uji-parameter-menggunakan-ancova/)
 - [Metode Statistika II : Uji Kebebasan](https://www.belajarstatistik.com/blog/2022/04/30/uji-kebebasan/)
 - [Metode Statistika II : Uji Korelasi Parsial Kendall Tau](https://www.belajarstatistik.com/blog/2022/04/29/uji-korelasi-parsial-kendall-tau/)
 - [Metode Statistika II : Uji Korelasi Kendall Tau](https://www.belajarstatistik.com/blog/2022/04/28/uji-korelasi-kendall-tau/)
-- [Metode Statistika II : Uji Korelasi Spearman](https://www.belajarstatistik.com/blog/2022/04/27/uji-korelasi-spearman/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
