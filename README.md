@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Topological Order/Sort](https://www.belajarstatistik.com/blog/2022/05/07/topological-order-sort/)
 - [Struktur Data : Graph Traversal](https://www.belajarstatistik.com/blog/2022/05/06/graph-traversal/)
 - [Struktur Data : Representasi Graph](https://www.belajarstatistik.com/blog/2022/05/05/representasi-graph/)
 - [Struktur Data : Pengenalan Graph](https://www.belajarstatistik.com/blog/2022/05/04/pengenalan-graph/)
 - [Metode Statistika II : Latihan Soal Ancova dan Pembahasan](https://www.belajarstatistik.com/blog/2022/05/03/latihan-soal-ancova-dan-pembahasan/)
-- [Metode Statistika II : Uji Parameter Menggunakan Ancova](https://www.belajarstatistik.com/blog/2022/05/02/uji-parameter-menggunakan-ancova/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
