@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Struktur Data : Implementasi Graph Berarah Tak Berbobot dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/05/10/implementasi-graph-berarah-tak-berbobot-dalam-bahasa-c/)
 - [Struktur Data : Spanning Tree](https://www.belajarstatistik.com/blog/2022/05/09/spanning-tree/)
 - [Struktur Data : Topological Order/Sort](https://www.belajarstatistik.com/blog/2022/05/07/topological-order-sort/)
 - [Struktur Data : Graph Traversal](https://www.belajarstatistik.com/blog/2022/05/06/graph-traversal/)
 - [Struktur Data : Representasi Graph](https://www.belajarstatistik.com/blog/2022/05/05/representasi-graph/)
-- [Struktur Data : Pengenalan Graph](https://www.belajarstatistik.com/blog/2022/05/04/pengenalan-graph/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
