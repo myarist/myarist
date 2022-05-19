@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Basis Data : Lingkungan Basis Data](https://www.belajarstatistik.com/blog/2022/05/20/lingkungan-basis-data/)
 - [Basis Data : Pengenalan Basis Data](https://www.belajarstatistik.com/blog/2022/05/19/pengenalan-basis-data/)
 - [Struktur Data : Contoh Program Graph dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/05/12/contoh-program-graph-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Graph Berarah Berbobot dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/05/11/implementasi-graph-berarah-berbobot-dalam-bahasa-c/)
 - [Struktur Data : Implementasi Graph Berarah Tak Berbobot dalam Bahasa C](https://www.belajarstatistik.com/blog/2022/05/10/implementasi-graph-berarah-tak-berbobot-dalam-bahasa-c/)
-- [Struktur Data : Spanning Tree](https://www.belajarstatistik.com/blog/2022/05/09/spanning-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
