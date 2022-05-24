@@ -24,11 +24,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemrograman Berbasis Web : Pengenalan HTTP](https://www.belajarstatistik.com/blog/2022/05/25/pengenalan-http/)
 - [Pemrograman Berbasis Web : Dasar-dasar Internet](https://www.belajarstatistik.com/blog/2022/05/24/dasar-dasar-internet/)
 - [Basis Data : Model Relasional dan Pemodelan Relasi Entitas](https://www.belajarstatistik.com/blog/2022/05/23/model-relasional-dan-pemodelan-relasi-entitas/)
 - [Basis Data : Perencanaan dan Perancangan Basis Data](https://www.belajarstatistik.com/blog/2022/05/21/perencanaan-dan-perancangan-basis-data/)
 - [Basis Data : Lingkungan Basis Data](https://www.belajarstatistik.com/blog/2022/05/20/lingkungan-basis-data/)
-- [Basis Data : Pengenalan Basis Data](https://www.belajarstatistik.com/blog/2022/05/19/pengenalan-basis-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
